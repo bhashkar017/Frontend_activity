@@ -1,2 +1,20 @@
 # Frontend_activity
-A responsive webpage built with HTML and CSS, featuring a navigation bar, informational cards on CSS, Box Model, and Responsive Design, and a fixed footer with social media links. The layout uses Flexbox and media queries for mobile responsiveness, ensuring an optimal experience across devices.
+Project Title: Responsive Web Design with CSS
+
+Description: This project demonstrates a simple, responsive webpage using HTML and CSS. It focuses on the core concepts of web development, including CSS styling, layout design, and responsiveness. The page features:
+
+A navigation bar with links to different sections of the page.
+A content area containing three informational cards styled with CSS, showcasing the concepts of CSS, Box Model, and Responsive Design.
+A footer section with social media links and a notification button.
+A responsive design that adjusts the layout based on the screen size, ensuring optimal display on both desktop and mobile devices.
+Key Features:
+
+Flexbox layout for navigation and content areas.
+Responsive design with media queries for mobile compatibility.
+Hover effects on buttons and links for interactive elements.
+Clean, modern design with a fixed footer.
+Technologies Used:
+
+HTML
+CSS (Flexbox, Box Model, Media Queries)
+
